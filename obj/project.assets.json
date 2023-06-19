@@ -6777,11 +6777,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\PC\\Documents\\Valdemir\\CURSO BACK-AND EaD\\Testes para Back-End\\teste_multi_exemplo_mstest\\teste_exemplo_multi_calculadora_mstest\\teste_multi_calculadora_mstest\\teste_multi_calculadora_mstest.csproj",
+      "projectUniqueName": "c:\\Users\\PC\\Documents\\Valdemir\\CURSO BACK-AND EaD\\Testes para Back-End\\teste_multi_exemplo_mstest\\teste_multi_calculadora_mstest\\teste_multi_calculadora_mstest.csproj",
       "projectName": "teste_multi_calculadora_mstest",
-      "projectPath": "c:\\Users\\PC\\Documents\\Valdemir\\CURSO BACK-AND EaD\\Testes para Back-End\\teste_multi_exemplo_mstest\\teste_exemplo_multi_calculadora_mstest\\teste_multi_calculadora_mstest\\teste_multi_calculadora_mstest.csproj",
+      "projectPath": "c:\\Users\\PC\\Documents\\Valdemir\\CURSO BACK-AND EaD\\Testes para Back-End\\teste_multi_exemplo_mstest\\teste_multi_calculadora_mstest\\teste_multi_calculadora_mstest.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\PC\\Documents\\Valdemir\\CURSO BACK-AND EaD\\Testes para Back-End\\teste_multi_exemplo_mstest\\teste_exemplo_multi_calculadora_mstest\\teste_multi_calculadora_mstest\\obj\\",
+      "outputPath": "c:\\Users\\PC\\Documents\\Valdemir\\CURSO BACK-AND EaD\\Testes para Back-End\\teste_multi_exemplo_mstest\\teste_multi_calculadora_mstest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"

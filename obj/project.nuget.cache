@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h4vPqreJd6m3Z1MLCXkEsEcVEPa9gr4HtbejXY4lZAcU+E+Eh224xwRS0eH8HEIK3gYy6XV0iy/XFxHkSWrssg==",
+  "dgSpecHash": "FGUtQ2Pj0/VUF1wFeqvW+4jE3vBjWssfwognIGdmXooKl5SfI+y+ZT6prKiQmq8yZU+ZVq1ZzmDw2Ma4DoK7qw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\PC\\Documents\\Valdemir\\CURSO BACK-AND EaD\\Testes para Back-End\\teste_multi_exemplo_mstest\\teste_exemplo_multi_calculadora_mstest\\teste_multi_calculadora_mstest\\teste_multi_calculadora_mstest.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Documents\\Valdemir\\CURSO BACK-AND EaD\\Testes para Back-End\\teste_multi_exemplo_mstest\\teste_multi_calculadora_mstest\\teste_multi_calculadora_mstest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",
